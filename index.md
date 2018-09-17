@@ -10,13 +10,11 @@
 
 
 #
-#
-#
-#
-#
-#
-#
-#
+##
+###
+*
+**
+***
 
 
 Kogenud programmeerija ühendab erinevatelt tarnijatelt (magnum, F9, mobileshop, iware, proks, abcdata jt) kaupu andmebaasid opencart põhinevatele veebikauplustele.
