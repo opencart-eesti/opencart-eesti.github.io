@@ -14,6 +14,9 @@
 
 
 
+
+
+
 Kogenud programmeerija ühendab erinevatelt tarnijatelt (magnum, F9, mobileshop, iware, proks, abcdata jt) kaupu andmebaasid opencart põhinevatele veebikauplustele.
 
 Kaupade värskendamine (sünkroonimine - koos tarnija andmebaasiga) igapäevaselt-nädalas.
