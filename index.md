@@ -1,8 +1,8 @@
-## Опытный программист подключает базы данных товаров различных поставщиков(magnum, F9, mobileshop, iware, proks, abcdata и другие) к opencart.
+## Opencart: magnum, F9, mobileshop, iware, proks, abcdata.
 
-You can use the [editor on GitHub](https://github.com/opencart-eesti/opencart-eesti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Опытный программист подключает базы данных товаров различных поставщиков(magnum, F9, mobileshop, iware, proks, abcdata и другие) к opencart.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Обновление товаров(синхронизация - с базой поставщика) ежедневное-еженедельное.
 
 ### Markdown
 
