@@ -9,12 +9,14 @@
 ### Контакт: ab@romi.guru
 
 
-
-
-
-
-
-
+#
+#
+#
+#
+#
+#
+#
+#
 
 
 Kogenud programmeerija ühendab erinevatelt tarnijatelt (magnum, F9, mobileshop, iware, proks, abcdata jt) kaupu andmebaasid opencart põhinevatele veebikauplustele.
@@ -23,4 +25,4 @@ Kaupade värskendamine (sünkroonimine - koos tarnija andmebaasiga) igapäevasel
 
 #### Üks andmebaasi ühendamise maksumus alates 500 eurost.
 
-## Võtke meiega ühendust: ab@romi.guru
+### Võtke meiega ühendust: ab@romi.guru
